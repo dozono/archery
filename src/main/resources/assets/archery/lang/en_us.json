@@ -1,0 +1,9 @@
+{
+  "item.archery.freeze_arrow_item": "freeze arrow",
+  "item.archery.flame_arrow_item": "flame arrow",
+  "item.archery.accurate_arrow_item": "accurate arrow",
+  "item.archery.bounce_arrow_item": "bounce arrow",
+  "item.archery.explosive_arrow_item": "explosive arrow",
+  "item.archery.teleport_arrow_item": "teleport arrow",
+  "item.archery.lightning_arrow_item": "lightning arrow"
+}

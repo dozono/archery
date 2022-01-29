@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "archery:flame_arrow_item",
+    "archery:lightning_arrow_item",
+    "archery:explosive_arrow_item",
+    "archery:bounce_arrow_item",
+    "archery:accurate_arrow_item",
+    "archery:teleport_arrow_item",
+    "archery:freeze_arrow_item"
+  ]
+}

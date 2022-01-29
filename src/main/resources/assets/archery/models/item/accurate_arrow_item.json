@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "archery:item/accurate_arrow_item"
+  }
+}

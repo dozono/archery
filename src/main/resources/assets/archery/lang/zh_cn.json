@@ -1,0 +1,9 @@
+{
+  "item.archery.freeze_arrow_item": "寒霜箭",
+  "item.archery.flame_arrow_item": "烈焰箭",
+  "item.archery.accurate_arrow_item": "精准箭",
+  "item.archery.bounce_arrow_item": "弹射箭",
+  "item.archery.explosive_arrow_item": "爆炸箭",
+  "item.archery.teleport_arrow_item": "传送箭",
+  "item.archery.lightning_arrow_item": "引雷箭"
+}

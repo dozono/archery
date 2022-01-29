@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Z ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "Z": {
+      "item": "minecraft:slime_ball"
+    },
+    "X": {
+      "item": "minecraft:arrow"
+    }
+
+  },
+  "result": {
+    "item": "archery:bounce_arrow_item",
+    "count": 8
+  }
+}

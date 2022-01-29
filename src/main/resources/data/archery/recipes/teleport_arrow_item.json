@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Z ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "Z": {
+      "item": "minecraft:ender_pearl"
+    },
+    "X": {
+      "item": "minecraft:arrow"
+    }
+
+  },
+  "result": {
+    "item": "archery:teleport_arrow_item",
+    "count": 8
+  }
+}
